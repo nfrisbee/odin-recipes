@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>
+            Garlic Mushrooms
+        </title>
+    </head>
+    <body>
+        <h1>Garlic Mushrooms</h1>
+            <img src="./garlicmushrooms.jpg" width="600" height="400" alt="Garlic Mushrooms">
+                <h2>Ingredients</h2>
+                    <p>These garlicy mushrooms are sure to delight! They are simple yet add a zing of flavor to any dish. I love puttin them on my burgers, pasta, and mashed potatoes.</p>
+                        <h3>Ingredients</h3>
+                            <ul>
+                                <li>1 tablespoon butter</li>
+                                <li>pounds sliced fresh mushrooms</li>
+                                <li>4 cloves garlic, minced</li>
+                                <li>1 teaspoon dried basil</li>
+                                <li>1 cup red wine</li>
+                            </ul>
+                <h2>Preparation</h2>
+                            <ol>
+                                <li>Heat butter in a skillet over medium heat. Add mushrooms and garlic; cook and stir until mushrooms are a light golden brown and liquid has evaporated, about 10 minutes. Stir in basil.</li>
+                                <li>Reduce heat to low, and pour wine into the skillet. Simmer until wine has mostly evaporated. Serve immediately.</li>
+                            </ol>
+    </body>
+</html>
